@@ -26,12 +26,12 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
       
       <script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-RV330VGXMF"
+        src="https://www.googletagmanager.com/gtag/js?id=G-RRMJ0VN7W2"
       />
       <script
         dangerouslySetInnerHTML={{
           __html:
-            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-RV330VGXMF')"
+            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-RRMJ0VN7W2')"
         }}
       />
       
